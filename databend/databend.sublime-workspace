@@ -1,0 +1,761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"primitive",
+				"primitive_types"
+			],
+			[
+				"exe",
+				"execfile"
+			],
+			[
+				"thread",
+				"thread_call"
+			],
+			[
+				"threa",
+				"thread_r"
+			],
+			[
+				"api",
+				"api_type"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"appen",
+				"appendTo  (function)"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"feeb",
+				"feedback"
+			],
+			[
+				"parse",
+				"parse_url"
+			],
+			[
+				"popove",
+				"popover-markup"
+			],
+			[
+				"pop",
+				"popover"
+			],
+			[
+				"popo",
+				"popover-markup"
+			],
+			[
+				"steps",
+				"stepsLength"
+			],
+			[
+				"calor",
+				"calorie_array"
+			],
+			[
+				"date",
+				"date_array_steps"
+			],
+			[
+				"distance",
+				"distance_array"
+			],
+			[
+				"bmi",
+				"bmi_array"
+			],
+			[
+				"weight",
+				"weight_array"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"ada",
+				"adays"
+			],
+			[
+				"arra",
+				"arrayOfClasses"
+			],
+			[
+				"query",
+				"querydb22"
+			],
+			[
+				"quer",
+				"querydb"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"has",
+				"hasPreviouslySynced"
+			],
+			[
+				"Oauth",
+				"OAuthRequester"
+			],
+			[
+				"weig",
+				"weight_array"
+			],
+			[
+				"ste",
+				"steps_array"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"predic",
+				"predict"
+			],
+			[
+				"trai",
+				"trainDT"
+			],
+			[
+				"O",
+				"O"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Run with args",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"togg",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"toggle hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"tog",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"package contr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				":w - Save"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove ",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"remove",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"picked",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"emmet",
+				"Emmet: Remove Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"SublimeCodeIntel: Enable Plugin"
+			],
+			[
+				"packagee",
+				"Package Control: Disable Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"gem browser",
+				"Gem Browser: List Gems"
+			],
+			[
+				"gem",
+				"Gem Browser: List Gems"
+			],
+			[
+				"git:",
+				"Git: Graph All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"github",
+				"Github: Blame"
+			],
+			[
+				"gith",
+				"Github: Blame"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convert to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Package Con	",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				":bd",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				":bn",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 302.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ankeet/workspace/img/databend.py",
+		"/Users/ankeet/workspace/img/databend.sublime-project",
+		"/Users/ankeet/workspace/img/testimg.png",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/User/python-args.sublime-build",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/ankeet/workspace/cigital/vulnlab/2014-07-22-vulnlab-ankeet-notes.txt",
+		"/Users/ankeet/workspace/rust-tut/hello.rs",
+		"/Users/ankeet/workspace/tmp/main.rs",
+		"/Users/ankeet/workspace/poc.php",
+		"/Users/ankeet/workspace/lol/poplockitdropit.c",
+		"/Users/ankeet/workspace/lol/pld_stack.c",
+		"/bin/ls",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/Rust/Rust.sublime-build",
+		"/Users/ankeet/workspace/rust-tut/hello",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/User/Rust.sublime-settings",
+		"/Users/ankeet/Google Drive/Notes/places to try DC",
+		"/Users/ankeet/Google Drive/Notes/competitors.txt",
+		"/Users/ankeet/Google Drive/Notes/recipes.txt",
+		"/Users/ankeet/Google Drive/School/UMD/Class/2012-01/CMSC414/vulnserver/Source/vulnserver.c",
+		"/Users/ankeet/Workspace/sound/VST/vstsdk2.4/public.sdk/samples/vst2.x/adelay/adelay.h",
+		"/Users/ankeet/facebook-square-art",
+		"/Users/ankeet/Workspace/crypto/monosub.py",
+		"/Users/ankeet/workspace/security/canyouhack.us.txt",
+		"/Users/ankeet/workspace/security/cisco-decrypt.c",
+		"/Users/ankeet/Cigital Employee (Fully Tunneled).pcf",
+		"/Users/ankeet/Workspace/winder/winder.py",
+		"/Users/ankeet/Workspace/tinder/winder.py",
+		"/private/var/tmp/spindump_sysdiagnose_2014.06.07_11-54-51-EDT_1.txt",
+		"/private/var/tmp/sysdiagnose_2014.06.07_11-54-51-EDT_1/disks.txt",
+		"/private/var/tmp/sysdiagnose_2014.06.07_11-54-51-EDT_1/diskutil.txt",
+		"/private/var/tmp/sysdiagnose_2014.06.07_11-54-51-EDT_1/fs_usage.txt",
+		"/Users/ankeet/Desktop/alumni.html",
+		"/Volumes/class-dump-3.5/README.md",
+		"/Users/ankeet/Workspace/sound/VST/vstsdk2.4/public.sdk/samples/vst2.x/adelay/adelaymain.cpp",
+		"/Users/ankeet/Workspace/sound/VST/vstsdk2.4/public.sdk/samples/vst2.x/adelay/adelay.cpp",
+		"/Users/ankeet/Desktop/organize/michelle/facebooktiling.txt",
+		"/Users/ankeet/Music/downloaded/Mixed In Key 5 + K/serial.txt",
+		"/Users/ankeet/Documents/Amazon Music Importer/logs/importLogs.txt",
+		"/Users/ankeet/Music/iTunes/Top 100 played songs of 2013.txt",
+		"/Users/ankeet/Flowdump",
+		"/Users/ankeet/Downloads/installers/VMware.Fusion.v5.0.3.MacOSX.Incl.Keymaker-CORE/CORE.NFO",
+		"/Users/ankeet/Downloads/installers/VMware.Fusion.v5.0.3.MacOSX.Incl.Keymaker-CORE/file_id.diz",
+		"/Users/ankeet/Workspace/amazonmp3/test.py",
+		"/Users/ankeet/Workspace/groupget/groupget2.py",
+		"/Users/ankeet/Workspace/groupget/posts.txt",
+		"/Users/ankeet/Workspace/groupget/pandapostsubset.txt",
+		"/Users/ankeet/Workspace/groupget/pandaposts",
+		"/Users/ankeet/Workspace/groupget/groupget.py",
+		"/Users/ankeet/Workspace/groupget/unixtime.py",
+		"/Users/ankeet/bin/irc",
+		"/Volumes/SH201Editor110_E/ReadMe(English).txt",
+		"/Users/ankeet/Workspace/groupget/feeddata.pkl",
+		"/Users/ankeet/Workspace/helixhub/user/fitbit.php",
+		"/Users/ankeet/Workspace/helixhub/controller/control.php",
+		"/Users/ankeet/mboost.asc",
+		"/Users/ankeet/Games/DCPU-16/mappum-DCPU-16/package.json",
+		"/Users/ankeet/Downloads/Stata12_OSX/Serials.txt",
+		"/Users/ankeet/Brendan_Rowan.asc",
+		"/Users/ankeet/Workspace/helixhub/model/dbfunctions.php",
+		"/Users/ankeet/Workspace/1eq/dev_script.sql",
+		"/Users/ankeet/Workspace/helixhub/model/Auth.php",
+		"/Users/ankeet/Workspace/helixhub/controller/iController.php",
+		"/Users/ankeet/Workspace/edmbots/threadbot.py",
+		"/Users/ankeet/bin/1eq-push-dev",
+		"/Users/ankeet/Documents/Screenshot kb shortcuts",
+		"/Users/ankeet/Workspace/edmbots/*REPL* [python].py",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/Users/ankeet/Workspace/helixhub/user/factoids.php",
+		"/Users/ankeet/Workspace/1eq/Disease Trait Factoids.csv",
+		"/Users/ankeet/Workspace/1eq/Disease Trait Factoids (1).csv",
+		"/Users/ankeet/Workspace/helixhub/js/controller.js",
+		"/Users/ankeet/Workspace/helixhub/user/settings.php",
+		"/Users/ankeet/Workspace/helixhub/user/overview.php",
+		"/Users/ankeet/Workspace/helixhub/user/dashboard.php",
+		"/Users/ankeet/Workspace/helixhub/css/stylesheet.css",
+		"/Users/ankeet/Workspace/helixhub/js/feedback.js",
+		"/Applications/MAMP/bin/startMysql.sh",
+		"/Applications/MAMP/db/mysql/ibdata1",
+		"/Applications/MAMP/db/mysql/ib_logfile0",
+		"/Users/ankeet/Workspace/helixhub/common/resources.php",
+		"/Users/ankeet/Workspace/helixhub/mail/invite_mail.php",
+		"/Users/ankeet/Workspace/helixhub/index.php",
+		"/Users/ankeet/Workspace/helixhub/auth/register.php",
+		"/Users/ankeet/Workspace/helixhub/mail/SendGrid_loader.php",
+		"/Users/ankeet/Workspace/helixhub/common/footer.php",
+		"/Users/ankeet/Workspace/helixhub/js/uservoice.js",
+		"/Users/ankeet/Workspace/helixhub/oauth-php/library/OAuthRequester.php",
+		"/Users/ankeet/Workspace/helixhub/oauth-php/library/OAuthException2.php",
+		"/Applications/MAMP/logs/php_error.log",
+		"/Users/ankeet/Workspace/helixhub/user/health.php",
+		"/Users/ankeet/Workspace/helixhub/js/controller-charts.js",
+		"/Users/ankeet/Workspace/helixhub/user/backbone.php",
+		"/Users/ankeet/Workspace/helixhub/auth/wizard.php",
+		"/Users/ankeet/Workspace/helixhub/auth/login.php",
+		"/Users/ankeet/Workspace/helixhub/common/header.php",
+		"/Users/ankeet/Workspace/helixhub/user/withings.php",
+		"/Users/ankeet/.irssi/config",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/ankeet/Workspace/tmp/demons.c",
+		"/Users/ankeet/Workspace/gray/header.php",
+		"/Users/ankeet/Workspace/gray/index.php",
+		"/Users/ankeet/Workspace/gray/sftp-config.json",
+		"/Users/ankeet/Books/poe.txt",
+		"/Users/ankeet/Workspace/gray/style.css",
+		"/Users/ankeet/Google Drive/Mixing Notes/redmproduction/edmp/oldsidebar",
+		"/Users/ankeet/Google Drive/Mixing Notes/redmproduction/edmp/oldstylesheet.css",
+		"/Users/ankeet/Desktop/music.txt",
+		"/Users/ankeet/Downloads/dropbox.py",
+		"/Users/ankeet/Workspace/soundboard/sftp-config.json",
+		"/Users/ankeet/Workspace/soundboard/johndyer-mediaelement-ebbf9a8/README.md",
+		"/Users/ankeet/Workspace/soundboard/index.htm",
+		"/Users/ankeet/Workspace/bios/1005HA-ASUS-1301.ROM",
+		"/Users/ankeet/Workspace/bios/1005HA-ASUS-1601.ROM",
+		"/Users/ankeet/Workspace/colors/index.php",
+		"/Users/ankeet/Workspace/color/style.css",
+		"/Users/ankeet/Workspace/colors/sftp-config.json",
+		"/Users/ankeet/Workspace/colors/style.css",
+		"/Users/ankeet/Workspace/color/footer.html",
+		"/Users/ankeet/Workspace/color/header.php",
+		"/Users/ankeet/Workspace/color/index.php",
+		"/Users/ankeet/Workspace/color/sftp-config.json",
+		"/Users/ankeet/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/nfs",
+		"/Users/ankeet/Workspace/color/contact.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"cffa",
+			"strong",
+			"style",
+			"div",
+			"O",
+			"*",
+			" ",
+			"*",
+			" ",
+			"*",
+			" ",
+			"com/",
+			"posts",
+			"html",
+			"\n    ",
+			"python",
+			"getGeneticHigh",
+			"while",
+			"querySingleRow",
+			"get",
+			"row",
+			"limit 3",
+			"left",
+			"control.php",
+			"control",
+			"survey",
+			"cdc, about",
+			"popover",
+			"popoverg",
+			"session",
+			"select email",
+			"token",
+			"form_div",
+			"row==null",
+			"where uid ",
+			"get",
+			"email",
+			"sendmail",
+			"sendMail",
+			"mail-",
+			"mail",
+			"option",
+			"fetch",
+			"char",
+			"fetch",
+			"userid",
+			"alert",
+			"$flag",
+			"flag",
+			"getDays",
+			"fetch",
+			"sword",
+			"othin",
+			"odin",
+			"command(",
+			"command",
+			"commands",
+			"()\n",
+			"path",
+			"train",
+			"false",
+			"uniq",
+			"cool track",
+			"incremental points",
+			"incremental",
+			"jalcide",
+			"commercially",
+			"jalcide",
+			"RMS",
+			"cubase",
+			"jalcide",
+			"%",
+			")",
+			"(",
+			"memory",
+			"0x9000",
+			"0xA000",
+			"0x9000",
+			"reg0",
+			"regname",
+			"Registers",
+			"dcpuOpcodes",
+			"0x02",
+			"add",
+			"UploadCharacterSet",
+			"0x9000",
+			"pkg",
+			"dat",
+			"RBRACKET",
+			"Consumeexpecttoken",
+			"<a href=\"http://www.mcvfra.org/base.cgim?template=MCVFRA_By-Laws#_top\">Top of the Document</a>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[[ankeet.presswala]]",
+			"[[michelle.goliger]]",
+			"<3",
+			"[[ankeet.presswala]]",
+			"[[michelle.goliger]]",
+			"[[ankeet.presswala]]",
+			"[[michelle.goliger]]",
+			"michelle.goliger",
+			"com/groups/",
+			"permalink",
+			"$hasPreviouslySynced",
+			"$previousSync",
+			"flag",
+			"]",
+			"[",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 187.0
+	},
+	"output.sftp":
+	{
+		"height": 180.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"<3[[ankeet.presswala]][[ankeet.presswala]][[ankeet"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ankeet/Workspace/1eq/1eq.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}

@@ -1,7 +1,7 @@
 import argparse, struct
 
 def die(msg="killed by user"):
-    print msg
+    print(msg)
     from sys import exit
     exit()
 
@@ -33,7 +33,7 @@ class Chunk:
         self.unsafe     = self.type[3].isupper()
 
     def crc_check(self):
-        print "to be implemented"
+        print("to be implemented")
 
 class Png:
 
@@ -74,7 +74,7 @@ class Png:
         crc_bytes = imgf.read(4)
 
         if len(crc_bytes)+len(type_bytes) < 8 or len(data_bytes) < clen: #something fucked up
-            print "Error: we shouldn't be in this part of the file"
+            print("Error: we shouldn't be in this part of the file")
             return None
 
         chunk_type = ''.join(type_bytes)
@@ -91,7 +91,7 @@ class Png:
         try:
             assert IHDR.type=="IHDR"
         except AssertionError:
-            print "The first chunk wasn't the header!"
+            print("The first chunk wasn't the header!")
             return
         width = struct.unpack("!I", self.chunks[0].data[0x0:0x4])[0]
         height = struct.unpack("!I", self.chunks[0].data[0x4:0x8])[0]
@@ -99,12 +99,11 @@ class Png:
         return (width, height)
 
 def main():
-    parser = argparse.ArgumentParser(description="Let's fuck up some PNGs! note to self:    rewrite this in py3.")
+    parser = argparse.ArgumentParser(description="Let's fuck up some PNGs!")
     parser.add_argument('png')
     args = parser.parse_args()
     png = Png(args.png)
-    print png.width, png.height
-
+    print(png.list_chunks())
 
 if __name__ == '__main__':
     main()

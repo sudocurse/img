@@ -1,0 +1,2 @@
+http://www.libpng.org/pub/png/spec/1.2/PNG-Chunks.html
+http://www.w3.org/TR/PNG/#4Concepts.Sourceimage
